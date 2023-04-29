@@ -1,0 +1,11 @@
+input {
+    width: 90% !important;
+}
+
+.verdecito {
+    background-color: rgb(218, 240, 197);
+}
+
+.rojito {
+    background-color: tomato;
+}
