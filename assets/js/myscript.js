@@ -7,7 +7,7 @@ function Gasto(tipo, nombre, monto) {
 const btncalcular = document.querySelector("#btncalcular");
 const btngasto = document.querySelector("#btngasto");
 const btnborrar = document.getElementsByClassName("trash");
-var tgastos = [];
+let tgastos = [];
 
 function sumas(tipo) {
     let suma = 0;
